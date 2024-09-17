@@ -2,6 +2,6 @@
 
 - open this folder in cmd 
 - run this in terminal
-     ```bash
+  ```bash
 	setup.exe /configure configuration.xml
-     ```
+  ```
